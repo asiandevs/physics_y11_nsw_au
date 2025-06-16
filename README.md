@@ -1,6 +1,6 @@
 # 🧪 Year 11 Physics NSW (Stage 6 Syllabus)
 
-This repository contains study notes and worked examples aligned to the **NSW Year 11 Physics Syllabus**, prepared for high school students. Each topic is presented in a clear, concise, and structured Markdown format, with visual clarity and LaTeX-style equations where appropriate.
+This repository contains study notes and worked examples aligned to the **NSW Year 11 Physics Syllabus**, prepared for high school students. 
 
 ---
 
