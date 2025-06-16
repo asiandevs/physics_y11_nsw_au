@@ -1097,8 +1097,7 @@ v₂' = v₁ = 10 m/s
 
 ---
 
-```markdown
-# 🧠 Year 11 Physics Summary: Momentum, Impulse, and Collisions
+# Summary: Momentum, Impulse, and Collisions
 
 ## 🔹 Momentum
 - **Momentum (p)** is the product of an object's **mass (m)** and **velocity (v)**:  
@@ -1135,8 +1134,6 @@ v₂' = v₁ = 10 m/s
   - Measured in **joules (J)**  
   - Depends on **mass** and the **square of velocity**
 
----
-
 ## 📝 Key Takeaways
 - Momentum and impulse help explain **how and why objects move or stop**.
 - **Impulse = change in momentum**, and extending time reduces force.
@@ -1144,7 +1141,6 @@ v₂' = v₁ = 10 m/s
 - Only in **elastic collisions** is **kinetic energy also conserved**.
 - Physics explains not just motion—but **how we design safer vehicles and environments**.
 
-```
 
----
+
 
